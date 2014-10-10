@@ -1,0 +1,20 @@
+{
+    "name": "vytautasgimbutas/lib-hawk-authentication-guzzle-subscriber",
+    "description": "Guzzle subscriber for Hawk Authentication",
+    "require": {
+        "guzzlehttp/guzzle": "~4.0",
+        "dflydev/hawk": "0.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tornado\\Component\\HawkAuthentication\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vytautas Gimbutas",
+            "email": "vytautas@gimbutas.net"
+        }
+    ]
+}
