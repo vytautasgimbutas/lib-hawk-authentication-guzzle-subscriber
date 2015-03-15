@@ -1,6 +1,7 @@
 {
     "name": "vytautasgimbutas/lib-hawk-authentication-guzzle-subscriber",
     "description": "Guzzle subscriber for Hawk Authentication",
+    "keywords": ["hawk", "authentication", "guzzle", "subscriber"],
     "require": {
         "guzzlehttp/guzzle": "~4.0",
         "dflydev/hawk": "0.0.0"
